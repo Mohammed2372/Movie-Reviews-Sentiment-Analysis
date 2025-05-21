@@ -22,8 +22,8 @@ This project implements sentiment analysis on movie reviews using both tradition
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/Mohammed2372/Movie-Reviews-Sentiment-Analysis.git
+cd Movie-Reviews-Sentiment-Analysis
 ```
 
 2. Create a virtual environment (recommended):
