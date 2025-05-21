@@ -13,7 +13,7 @@ This project implements sentiment analysis on movie reviews using both tradition
 │   └── all_reviews.csv     # Combined dataset
 ├── NLP project.py          # Main project implementation
 ├── NLP project.ipynb       # Main project implementation as Jupyter Notebook
-├── Documentation.docx      # Detailed documentation
+├── Documentation.pdf       # Detailed documentation
 └── requirements.txt        # Project dependencies
 ```
 
