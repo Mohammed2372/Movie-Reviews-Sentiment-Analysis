@@ -95,7 +95,7 @@ For detailed information about:
 - Performance metrics
 - Implementation details
 
-Please refer to [`Documentation.docx`](./Documentation.docx) for more details.
+Please refer to [`Documentation.pdf`](./Documentation.pdf) for more details.
 
 ## Usage
 
